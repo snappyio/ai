@@ -1,5 +1,13 @@
 # @ai-sdk/gateway
 
+## 4.0.121
+
+### Patch Changes
+
+- f1b550e: Defer construction of provider validation schemas until first use to reduce package import time.
+- Updated dependencies [39a776b]
+  - @ai-sdk/provider-utils@5.0.65
+
 ## 4.0.120
 
 ### Patch Changes

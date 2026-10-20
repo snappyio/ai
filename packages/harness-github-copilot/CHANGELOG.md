@@ -1,5 +1,15 @@
 # @ai-sdk/harness-github-copilot
 
+## 1.0.55
+
+### Patch Changes
+
+- 30f664a: feat(harness-github-copilot): support tools with `toModelOutput()` including images
+- Updated dependencies [39a776b]
+  - @ai-sdk/provider-utils@5.0.65
+  - @ai-sdk/harness@1.0.159
+  - @ai-sdk/harness-acp@1.0.98
+
 ## 1.0.54
 
 ### Patch Changes
