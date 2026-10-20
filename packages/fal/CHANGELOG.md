@@ -1,5 +1,13 @@
 # @ai-sdk/fal
 
+## 1.0.49
+
+### Patch Changes
+
+- 4146790: Encode provider-returned identifiers in follow-up request paths with a shared encodePathSegment helper.
+- Updated dependencies [4146790]
+  - @ai-sdk/provider-utils@3.0.42
+
 ## 1.0.48
 
 ### Patch Changes

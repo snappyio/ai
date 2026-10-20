@@ -1,5 +1,13 @@
 # @ai-sdk/anthropic
 
+## 2.0.110
+
+### Patch Changes
+
+- 58cb8c9: Defer construction of Anthropic provider option schemas until they are first used to reduce package import time.
+- Updated dependencies [4146790]
+  - @ai-sdk/provider-utils@3.0.42
+
 ## 2.0.109
 
 ### Patch Changes

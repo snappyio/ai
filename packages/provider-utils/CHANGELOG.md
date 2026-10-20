@@ -1,5 +1,11 @@
 # @ai-sdk/provider-utils
 
+## 3.0.42
+
+### Patch Changes
+
+- 4146790: Encode provider-returned identifiers in follow-up request paths with a shared encodePathSegment helper.
+
 ## 3.0.41
 
 ### Patch Changes
