@@ -1,5 +1,13 @@
 # @ai-sdk/bytedance
 
+## 1.0.51
+
+### Patch Changes
+
+- d726591: Encode provider-returned identifiers in follow-up request paths with a shared encodePathSegment helper.
+- Updated dependencies [d726591]
+  - @ai-sdk/provider-utils@4.0.62
+
 ## 1.0.50
 
 ### Patch Changes

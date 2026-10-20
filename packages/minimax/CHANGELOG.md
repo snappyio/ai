@@ -1,5 +1,15 @@
 # @ai-sdk/minimax
 
+## 2.0.33
+
+### Patch Changes
+
+- d726591: Encode provider-returned identifiers in follow-up request paths with a shared encodePathSegment helper.
+- Updated dependencies [e172400]
+- Updated dependencies [d726591]
+  - @ai-sdk/anthropic@3.0.135
+  - @ai-sdk/provider-utils@4.0.62
+
 ## 2.0.32
 
 ### Patch Changes

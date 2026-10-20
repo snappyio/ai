@@ -1,5 +1,14 @@
 # @ai-sdk/xai
 
+## 3.0.145
+
+### Patch Changes
+
+- d726591: Encode provider-returned identifiers in follow-up request paths with a shared encodePathSegment helper.
+- Updated dependencies [d726591]
+  - @ai-sdk/provider-utils@4.0.62
+  - @ai-sdk/openai-compatible@2.0.87
+
 ## 3.0.144
 
 ### Patch Changes
